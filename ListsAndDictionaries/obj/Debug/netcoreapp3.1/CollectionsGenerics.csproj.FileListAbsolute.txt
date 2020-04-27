@@ -1,0 +1,12 @@
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/CollectionsGenerics/bin/Debug/netcoreapp3.1/CollectionsGenerics.deps.json
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/CollectionsGenerics/bin/Debug/netcoreapp3.1/CollectionsGenerics.runtimeconfig.json
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/CollectionsGenerics/bin/Debug/netcoreapp3.1/CollectionsGenerics.runtimeconfig.dev.json
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/CollectionsGenerics/bin/Debug/netcoreapp3.1/CollectionsGenerics.dll
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/CollectionsGenerics/bin/Debug/netcoreapp3.1/CollectionsGenerics.pdb
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/CollectionsGenerics/obj/Debug/netcoreapp3.1/CollectionsGenerics.csprojAssemblyReference.cache
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/CollectionsGenerics/obj/Debug/netcoreapp3.1/CollectionsGenerics.csproj.CoreCompileInputs.cache
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/CollectionsGenerics/obj/Debug/netcoreapp3.1/CollectionsGenerics.AssemblyInfoInputs.cache
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/CollectionsGenerics/obj/Debug/netcoreapp3.1/CollectionsGenerics.AssemblyInfo.cs
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/CollectionsGenerics/obj/Debug/netcoreapp3.1/CollectionsGenerics.dll
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/CollectionsGenerics/obj/Debug/netcoreapp3.1/CollectionsGenerics.pdb
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/CollectionsGenerics/obj/Debug/netcoreapp3.1/CollectionsGenerics.genruntimeconfig.cache

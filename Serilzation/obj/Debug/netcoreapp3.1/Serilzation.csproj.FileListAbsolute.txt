@@ -1,0 +1,12 @@
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/Serilzation/bin/Debug/netcoreapp3.1/Serilzation.deps.json
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/Serilzation/bin/Debug/netcoreapp3.1/Serilzation.runtimeconfig.json
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/Serilzation/bin/Debug/netcoreapp3.1/Serilzation.runtimeconfig.dev.json
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/Serilzation/bin/Debug/netcoreapp3.1/Serilzation.dll
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/Serilzation/bin/Debug/netcoreapp3.1/Serilzation.pdb
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/Serilzation/obj/Debug/netcoreapp3.1/Serilzation.csprojAssemblyReference.cache
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/Serilzation/obj/Debug/netcoreapp3.1/Serilzation.csproj.CoreCompileInputs.cache
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/Serilzation/obj/Debug/netcoreapp3.1/Serilzation.AssemblyInfoInputs.cache
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/Serilzation/obj/Debug/netcoreapp3.1/Serilzation.AssemblyInfo.cs
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/Serilzation/obj/Debug/netcoreapp3.1/Serilzation.dll
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/Serilzation/obj/Debug/netcoreapp3.1/Serilzation.pdb
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/Serilzation/obj/Debug/netcoreapp3.1/Serilzation.genruntimeconfig.cache

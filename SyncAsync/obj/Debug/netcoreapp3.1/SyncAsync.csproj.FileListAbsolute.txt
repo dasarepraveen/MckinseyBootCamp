@@ -1,0 +1,12 @@
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/SyncAsync/bin/Debug/netcoreapp3.1/SyncAsync.deps.json
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/SyncAsync/bin/Debug/netcoreapp3.1/SyncAsync.runtimeconfig.json
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/SyncAsync/bin/Debug/netcoreapp3.1/SyncAsync.runtimeconfig.dev.json
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/SyncAsync/bin/Debug/netcoreapp3.1/SyncAsync.dll
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/SyncAsync/bin/Debug/netcoreapp3.1/SyncAsync.pdb
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/SyncAsync/obj/Debug/netcoreapp3.1/SyncAsync.csprojAssemblyReference.cache
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/SyncAsync/obj/Debug/netcoreapp3.1/SyncAsync.csproj.CoreCompileInputs.cache
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/SyncAsync/obj/Debug/netcoreapp3.1/SyncAsync.AssemblyInfoInputs.cache
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/SyncAsync/obj/Debug/netcoreapp3.1/SyncAsync.AssemblyInfo.cs
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/SyncAsync/obj/Debug/netcoreapp3.1/SyncAsync.dll
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/SyncAsync/obj/Debug/netcoreapp3.1/SyncAsync.pdb
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/SyncAsync/obj/Debug/netcoreapp3.1/SyncAsync.genruntimeconfig.cache

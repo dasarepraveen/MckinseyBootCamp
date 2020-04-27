@@ -1,0 +1,12 @@
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/AccessSpeciFier/bin/Debug/netcoreapp3.1/AccessSpeciFier.deps.json
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/AccessSpeciFier/bin/Debug/netcoreapp3.1/AccessSpeciFier.runtimeconfig.json
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/AccessSpeciFier/bin/Debug/netcoreapp3.1/AccessSpeciFier.runtimeconfig.dev.json
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/AccessSpeciFier/bin/Debug/netcoreapp3.1/AccessSpeciFier.dll
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/AccessSpeciFier/bin/Debug/netcoreapp3.1/AccessSpeciFier.pdb
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/AccessSpeciFier/obj/Debug/netcoreapp3.1/AccessSpeciFier.csprojAssemblyReference.cache
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/AccessSpeciFier/obj/Debug/netcoreapp3.1/AccessSpeciFier.csproj.CoreCompileInputs.cache
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/AccessSpeciFier/obj/Debug/netcoreapp3.1/AccessSpeciFier.AssemblyInfoInputs.cache
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/AccessSpeciFier/obj/Debug/netcoreapp3.1/AccessSpeciFier.AssemblyInfo.cs
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/AccessSpeciFier/obj/Debug/netcoreapp3.1/AccessSpeciFier.dll
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/AccessSpeciFier/obj/Debug/netcoreapp3.1/AccessSpeciFier.pdb
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/AccessSpeciFier/obj/Debug/netcoreapp3.1/AccessSpeciFier.genruntimeconfig.cache

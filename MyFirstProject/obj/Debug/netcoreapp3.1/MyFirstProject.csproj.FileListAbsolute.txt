@@ -1,0 +1,12 @@
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/MyFirstProject/bin/Debug/netcoreapp3.1/MyFirstProject.deps.json
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/MyFirstProject/bin/Debug/netcoreapp3.1/MyFirstProject.runtimeconfig.json
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/MyFirstProject/bin/Debug/netcoreapp3.1/MyFirstProject.runtimeconfig.dev.json
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/MyFirstProject/bin/Debug/netcoreapp3.1/MyFirstProject.dll
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/MyFirstProject/bin/Debug/netcoreapp3.1/MyFirstProject.pdb
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/MyFirstProject/obj/Debug/netcoreapp3.1/MyFirstProject.csprojAssemblyReference.cache
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/MyFirstProject/obj/Debug/netcoreapp3.1/MyFirstProject.csproj.CoreCompileInputs.cache
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/MyFirstProject/obj/Debug/netcoreapp3.1/MyFirstProject.AssemblyInfoInputs.cache
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/MyFirstProject/obj/Debug/netcoreapp3.1/MyFirstProject.AssemblyInfo.cs
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/MyFirstProject/obj/Debug/netcoreapp3.1/MyFirstProject.dll
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/MyFirstProject/obj/Debug/netcoreapp3.1/MyFirstProject.pdb
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/MyFirstProject/obj/Debug/netcoreapp3.1/MyFirstProject.genruntimeconfig.cache

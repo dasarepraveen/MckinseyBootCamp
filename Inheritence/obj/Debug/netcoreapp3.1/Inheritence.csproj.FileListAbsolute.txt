@@ -1,0 +1,12 @@
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/Inheritence/obj/Debug/netcoreapp3.1/Inheritence.csprojAssemblyReference.cache
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/Inheritence/obj/Debug/netcoreapp3.1/Inheritence.csproj.CoreCompileInputs.cache
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/Inheritence/obj/Debug/netcoreapp3.1/Inheritence.AssemblyInfoInputs.cache
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/Inheritence/obj/Debug/netcoreapp3.1/Inheritence.AssemblyInfo.cs
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/Inheritence/bin/Debug/netcoreapp3.1/Inheritence.deps.json
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/Inheritence/bin/Debug/netcoreapp3.1/Inheritence.runtimeconfig.json
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/Inheritence/bin/Debug/netcoreapp3.1/Inheritence.runtimeconfig.dev.json
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/Inheritence/bin/Debug/netcoreapp3.1/Inheritence.dll
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/Inheritence/bin/Debug/netcoreapp3.1/Inheritence.pdb
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/Inheritence/obj/Debug/netcoreapp3.1/Inheritence.dll
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/Inheritence/obj/Debug/netcoreapp3.1/Inheritence.pdb
+/Users/praveenkumar_dasare/Documents/dot-net-projects/myfirstproject/src/Inheritence/obj/Debug/netcoreapp3.1/Inheritence.genruntimeconfig.cache
